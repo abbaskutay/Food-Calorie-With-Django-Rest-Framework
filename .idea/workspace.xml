@@ -1,13 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="93d4adb2-b81d-4bbc-80a4-eec80def8c81" name="Default Changelist" comment="" />
+    <list default="true" id="93d4adb2-b81d-4bbc-80a4-eec80def8c81" name="Default Changelist" comment="ADDED SOME FILES REGARDING ML" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1pNfcOTcz8GDw7lwkGJzYsHCbpn" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -15,7 +26,9 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/ML" />
   </component>
   <component name="RunManager">
     <configuration name="FoodCalorie" type="Python.DjangoServer" factoryName="Django server">
@@ -51,10 +64,23 @@
       <option name="presentableId" value="Default" />
       <updated>1615028546355</updated>
       <workItem from="1615028555635" duration="105000" />
+      <workItem from="1615028670283" duration="305000" />
     </task>
+    <task id="LOCAL-00001" summary="ADDED SOME FILES REGARDING ML">
+      <created>1615028958210</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1615028958210</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="ADDED SOME FILES REGARDING ML" />
+    <option name="LAST_COMMIT_MESSAGE" value="ADDED SOME FILES REGARDING ML" />
   </component>
 </project>
