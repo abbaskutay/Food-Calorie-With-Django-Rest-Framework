@@ -1,4 +1,4 @@
-# FoodCalorie
+# Food-Calorie-With-Django-Rest-Framework
 First you need to provide A  secret key in settings.py to run the app.
 rest_framwrok must be in your liblaries if there is not you can install it via pip.
 You need to do "makemigrations" and "migrate".
